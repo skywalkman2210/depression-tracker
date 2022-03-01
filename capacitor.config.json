@@ -1,0 +1,6 @@
+{
+	"appId": "net.allenhazlett.depressiontracker",
+	"appName": "Depression Tracker",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
